@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=edikurniawan-dev)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edikurniawan-dev)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edikurniawan-dev)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edikurniawan-dev)
 
 ## Connect With Me
 
