@@ -1,7 +1,8 @@
 <div align='center'>
     <h1>Hello everyone, my name is Edi Kurniawan</h1>
     <h1>I'm a Web Developer</h1>
-
+</div>
+<div align='center'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
@@ -15,7 +16,6 @@
     <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
     <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
     <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
-
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=edikurniawan-dev'/>
     <br/>
     <img src='https://github-readme-stats.vercel.app/api?username=edikurniawan-dev'/>
