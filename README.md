@@ -37,3 +37,7 @@
     <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'/>
     <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/>
 </div>
+
+<div align='center'>
+    <img src='https://komarev.com/ghpvc/?username=edikurniawan-dev&color=blue'/>
+</div>
