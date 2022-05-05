@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="auto" height="450px" src="images/hero.svg"/></a>
+<a href="#"><img width="auto" height="420px" src="images/hero.svg"/></a>
 </p>
 <h1 align="center">Hi 👋 My name is Edi Kurniawan<br>Web Developer</h1>
 </br>
