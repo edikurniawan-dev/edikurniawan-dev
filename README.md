@@ -1,9 +1,10 @@
+<p align="center">
 <a href="#"><img width="auto" height="500px" src="images/hero.svg"/></a>
+</p>
+<h1 align="center">Hi 👋 My name is Edi Kurniawan</h1>
+<h2 align="center">Web Developer</h2>
 
-# Hi 👋 My name is Edi Kurniawan
-
-## Web Developer
-
+<br>
 ## 😏 About Me
 
 -   🖥️  See my portfolio at **[edikurniawan.pages.dev](http://edikurniawan.pages.dev/)**
