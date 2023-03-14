@@ -1,14 +1,14 @@
 <p align="center">
-<a href="#"><img width="auto" height="420px" src="images/hero.svg"/></a>
+<a href="#"><img width="auto" height="400px" src="images/hero.svg"/></a>
 </p>
-<h1 align="center">Hi 👋 My name is Edi Kurniawan<br>Web Developer</h1>
+<h1 align="center">Hi 👋 my name is Edi Kurniawan<br>Web Developer</h1>
 </br>
 
 ## 😏 About Me
 
 -   🖥️  See my portfolio at **[edikurniawan.pages.dev](http://edikurniawan.pages.dev/)**
 -   ✉️  You can contact me at **[edikurniawan.dev@gmail.com](mailto:edikurniawan.dev@gmail.com)**
--   🧮 I’m currently learning **[NextJS](https://nextjs.org/) and [ExpressJS](https://expressjs.com/)**
+-   🧮 I’m currently learning **[TypeScript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/)**
 
 ## 💻 Skills
 
@@ -33,7 +33,4 @@
 
 <p align="center">
 <a href="http://www.github.com/edikurniawan-dev"><img src="https://github-readme-stats.vercel.app/api?username=edikurniawan-dev&show_icons=true&hide=&count_private=true&title_color=06b6d4&text_color=ffffff&icon_color=06b6d4&bg_color=1e293b&hide_border=true&show_icons=true" alt="edikurniawan-dev's GitHub stats" /></a>
-
-<a href="http://www.github.com/edikurniawan-dev"><img src="https://activity-graph.herokuapp.com/graph?username=edikurniawan-dev&bg_color=1e293b&color=ffffff&line=06b6d4&point=ffffff&area_color=1e293b&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 </p>
