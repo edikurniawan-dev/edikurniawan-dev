@@ -1,12 +1,12 @@
 <p align="center">
-<a href="#"><img width="auto" height="400px" src="images/hero.svg"/></a>
+<a href="#"><img width="auto" height="350px" src="images/hero.svg"/></a>
 </p>
 <h1 align="center">Hi 👋 my name is Edi Kurniawan<br>Web Developer</h1>
 </br>
 
 ## 😏 About Me
 
--   🖥️  See my portfolio at **[edikurniawan.pages.dev](http://edikurniawan.pages.dev/)**
+-   🖥️  See my portfolio at **[edikurniawan.dev](https://edikurniawan.dev/)**
 -   ✉️  You can contact me at **[edikurniawan.dev@gmail.com](mailto:edikurniawan.dev@gmail.com)**
 -   🧮 I’m currently learning **[TypeScript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/)**
 
@@ -29,8 +29,8 @@
 
 <p align="left"> <a href="https://www.facebook.com/edikurniawan.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/edikurniawan-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/edi.kurniawan27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edikurniawan-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/edikurnia_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## 📈 My GitHub Stats
+<!-- ## 📈 My GitHub Stats
 
 <p align="center">
 <a href="http://www.github.com/edikurniawan-dev"><img src="https://github-readme-stats.vercel.app/api?username=edikurniawan-dev&show_icons=true&hide=&count_private=true&title_color=06b6d4&text_color=ffffff&icon_color=06b6d4&bg_color=1e293b&hide_border=true&show_icons=true" alt="edikurniawan-dev's GitHub stats" /></a>
-</p>
+</p> -->
