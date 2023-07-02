@@ -1,13 +1,7 @@
-<p align="center">
-<a href="#"><img width="auto" height="350px" src="images/hero.svg"/></a>
-</p>
-<h1 align="center">Hi 👋 my name is Edi Kurniawan<br>Web Developer</h1>
-</br>
-
 ## 😏 About Me
-
--   🖥️  See my portfolio at **[edikurniawan.dev](https://edikurniawan.dev/)**
--   ✉️  You can contact me at **[edikurniawan.dev@gmail.com](mailto:edikurniawan.dev@gmail.com)**
+-  👋  Hi, my name is Edi Kurniawan a Web Developer
+-  🖥️  See my portfolio at **[edikurniawan.dev](https://edikurniawan.dev/)**
+-  ✉️  You can contact me at **[edikurniawan.dev@gmail.com](mailto:edikurniawan.dev@gmail.com)**
 -   🧮 I’m currently learning **[TypeScript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/)**
 
 ## 💻 Skills
