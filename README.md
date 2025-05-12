@@ -2,8 +2,7 @@
 
 - 👋 Hi, my name is Edi Kurniawan a Web Developer
 - 🖥️ See my portfolio at **[edikurniawan.dev](https://edikurniawan.dev/)**
-- ✉️ You can contact me at **[edikurniawan.dev@gmail.com](mailto:edikurniawan.dev@gmail.com)**
-- 🧮 I’m currently learning **[TypeScript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/)**
+- ✉️ You can contact me at **[contact@edikurniawan.dev](mailto:contact@edikurniawan.dev)**
 
 ## Skills
 
